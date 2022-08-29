@@ -1,0 +1,9 @@
+body .correcto{
+    background-image: url("img/correcto.jpg");
+    color: blue"
+  }
+body .incorrecto{
+    background-image: url("img/incorrecto.jpg");
+    color: blue"
+  }
+  
